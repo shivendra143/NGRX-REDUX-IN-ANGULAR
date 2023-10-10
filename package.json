@@ -8,7 +8,7 @@
     "zone.js": "0.8.26",
     "@ngrx/store": "5.2.0",
     "@types/node": "6.0.111",
-    "@angular/core": "5.2.11",
+    "@angular/core": "10.2.5",
     "@angular/http": "5.2.11",
     "@ngrx/effects": "5.2.0",
     "@angular/forms": "5.2.11",
